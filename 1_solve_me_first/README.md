@@ -30,3 +30,9 @@ Output an integer that denotes
 ```bash
 5
 ```
+### Run Solution
+From root folder run the code:
+
+```bash
+elixir ./1_solve_me_first/solution.exs
+```
