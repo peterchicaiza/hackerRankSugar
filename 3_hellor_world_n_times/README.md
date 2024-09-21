@@ -1,6 +1,6 @@
 ## Hello World N Times
 
-Print "Hello World" amount of times. The input portion will be handled automatically. You need to write a function with the recommended method signature.
+Print "Hello World" ***N*** amount of times. The input portion will be handled automatically. You need to write a function with the recommended method signature.
 
 ### Input Format
 
