@@ -11,3 +11,4 @@ List of challenges solved:
 - [Hello World N Times](./3_hellor_world_n_times/README.md)
 - [List Replication](./4_list_replication/README.md)
 - [Filter Array](./5_filter_array/README.md)
+- [Filter Positions in a List](./6_filter_positions_in_a_list/README.md)

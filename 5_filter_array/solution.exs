@@ -12,10 +12,10 @@ defmodule Solution do
   def read_and_filter(filter) do
     line = IO.gets("")
 
-    if line in @end_of_input, do: [], else: add_to_list(line, filter)
+    if line in @end_of_input, do: [], else: add_or_filter(line, filter)
   end
 
-  def add_to_list(line, filter) do
+  def add_or_filter(line, filter) do
     number = String.trim(line) |> String.to_integer()
 
     if number < filter,
