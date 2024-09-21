@@ -10,3 +10,4 @@ List of challenges solved:
 - [Hello World](./2_hello_world/README.md)
 - [Hello World N Times](./3_hellor_world_n_times/README.md)
 - [List Replication](./4_list_replication/README.md)
+- [Filter Array](./5_filter_array/README.md)
